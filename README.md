@@ -23,8 +23,10 @@ SO THAT my company can compete with other e-commerce companies
 ### 3. start server
   `npm start`
 ### The walkthrough video
+
 #### Link
-TBD
+<https://drive.google.com/file/d/1z9BJVqn1jDi4qLaSEKepDGBkc_9S29lQ/view>
+
 #### the video content checklist
 - [X] must show all of the technical acceptance criteria being met.
 
@@ -39,6 +41,12 @@ TBD
 - [X] must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia Core.
 - [X] must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
 - [X] video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
+
+### screen shot
+
+#### Insomnia demo
+
+![screenshot](./Assets/screenshot.jpg)
 
 ### Database Models
 
